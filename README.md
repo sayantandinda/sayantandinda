@@ -76,6 +76,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/https://www.instagram.com/sayantandinda/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sukhendu2002">
+    <img src="https://komarev.com/ghpvc/?username=sayantandinda">
 </a>
 <a href="https://github.com/sayantandinda?tab=followers"><img src="https://img.shields.io/github/followers/sayantandinda?label=Followers&style=social" alt="GitHub Badge"></a>
